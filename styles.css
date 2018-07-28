@@ -4,7 +4,8 @@ body {
 #captchaBackground {
   height: 200px;
   width: 250px;
-  background-color: #ced7e5;
+  background-color: #7b807f;
+  background-image: url("https://www.transparenttextures.com/patterns/light-toast.png");
   display: flex;
   align-items: center;
   justify-content: center;
@@ -28,8 +29,10 @@ align-items: center;
   height: 25px;
 }
 .redText {
-  color: red;
+  color: #a03146;
+  font-weight: bold;
 }
 .greenText {
-  color: green;
+  color: #1a3815;
+  font-weight: bold;
 }
